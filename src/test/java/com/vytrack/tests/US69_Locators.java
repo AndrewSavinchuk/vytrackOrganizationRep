@@ -19,6 +19,9 @@ public class US69_Locators {
     @FindBy(xpath = "//span[.='Vehicles']/../..")
     public WebElement vehiclesLink;
 
+    @FindBy(xpath = "//span[.='Vehicles Model']/../..")
+    public WebElement vehiclesModel;
+
     @FindBy(xpath = "//button[@class='btn btn-default btn-small dropdown-toggle']/input")
     public WebElement mainCheckBox;
 
