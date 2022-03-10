@@ -27,7 +27,7 @@ public class US69_Tests extends TestBase {
 //using method to select and check random checkboxes
         selectRandomCheckBoxes(locators.allCheckBoxes);
         BrowserUtils.sleep(3);
-        VytrackUtils.logOut();
+        //VytrackUtils.logOut();
     }
 
     @Test(dataProvider = "storeManagers")
@@ -41,7 +41,7 @@ public class US69_Tests extends TestBase {
 //using method to select and check random checkboxes
         selectRandomCheckBoxes(locators.allCheckBoxes);
         BrowserUtils.sleep(3);
-        VytrackUtils.logOut();
+        //VytrackUtils.logOut();
     }
 
     @Test(dataProvider = "drivers")
