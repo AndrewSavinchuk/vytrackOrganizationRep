@@ -13,7 +13,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class US1_Test_Main_Modules extends TestBase {
+public class US63_Test_Main_Modules extends TestBase {
     // testing modules for sales manager
 
 
