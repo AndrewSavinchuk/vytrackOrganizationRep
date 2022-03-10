@@ -23,7 +23,7 @@ public class US67_VehicleModels_Table extends TestBase {
         VytrackUtils.loginAsSalesManager(usernames);
         navigateToVehicleModelSubMenu();
         checkingEachHeaderOfaTable();
-//
+
 
     }
 
